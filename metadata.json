@@ -1,0 +1,6 @@
+{
+  "name": "Endrada",
+  "description": "Elegant, minimalist jewelry boutique homepage styled in customized dusty-pink accents with dynamic digital size finders, bespoke booking systems, and cinema looping background media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
